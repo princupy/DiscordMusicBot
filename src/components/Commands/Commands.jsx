@@ -69,7 +69,7 @@ const Commands = () => {
           </button>
         ))}
       </div>
-      {/* search */}
+      {/* Search */}
       <input
         type="text"
         placeholder="Type Here to Find Command"
@@ -91,3 +91,5 @@ const Commands = () => {
 };
 
 export default Commands;
+
+
